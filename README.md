@@ -62,6 +62,6 @@ I'm a Mechanical Designer turned Computer Engineering Student at York University
 <br />
 
   <a href="https://github.com/Andrew-Attfield?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_All_Repositories-222222?style=for-the-badge&logo=github&logoColor=white" alt="All Projects" />
+    <img src="https://img.shields.io/badge/Explore_All_Projects-222222?style=for-the-badge&logo=github&logoColor=white" alt="All Projects" />
   </a>
 </div>
