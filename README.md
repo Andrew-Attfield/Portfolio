@@ -13,18 +13,56 @@ I'm a Mechanical Designer turned Computer Engineering Student at York University
 
 ---
 
-### Skills & Tools
+---
 
+### 💻 Software & Programming
 <p align="left">
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="Vim" title="Vim" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" alt="After Effects" title="After Effects" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" alt="Premiere Pro" title="Premiere Pro" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://store.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="Bash" title="Bash" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="Vim" title="Vim" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/notepadplusplus-colored.svg" alt="Notepad++" title="Notepad++" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Verilog-HDL-3fb1e5?style=for-the-badge&logo=intel&logoColor=white" height="36" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/RISC--V-Instruction_Set-67217a?style=for-the-badge&logo=microchip&logoColor=white" height="36" /></a>
 </p>
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/MATLAB-Simulation-e16711?style=flat&logo=mathworks&logoColor=white" height="28" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/LTSpice-Circuit_Sim-blue?style=flat" height="28" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/IntelliJ_IDEA-IDE-000000?style=flat&logo=intellij-idea&logoColor=white" height="28" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Eclipse-IDE-2c2255?style=flat&logo=eclipse-ide&logoColor=white" height="28" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/UML-Design-informational?style=flat" height="28" /></a>
+</p>
+
+---
+
+### 🔌 Hardware & Engineering
+<p align="left">
+  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Oscilloscope-Analysis-brightgreen?style=flat-square" height="25" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Multimeter-Testing-yellow?style=flat-square" height="25" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Sensors_&_Actuators-IoT-blueviolet?style=flat-square" height="25" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Breadboarding-Prototyping-grey?style=flat-square" height="25" />
+</p>
+
+---
+
+### 📐 Mechanical & Industrial Design
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/SolidWorks-3D_Design-da291c?style=flat&logo=solidworks&logoColor=white" height="28" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/MicroStation-CAD-blue?style=flat" height="28" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/SmartPlant3D-Modeling-green?style=flat" height="28" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/ProjectWise-Document_Control-003366?style=flat" height="28" /></a>
+</p>
+
+---
+
+### 📜 Certifications
+<p align="left">
+  <img src="https://img.shields.io/badge/WHMIS_Certified-Workplace_Safety-orange?style=for-the-badge&logo=safety" height="30" />
+</p>
+
+---
 
 ---
 
