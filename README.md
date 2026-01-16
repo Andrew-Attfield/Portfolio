@@ -41,7 +41,7 @@ I'm a Mechanical Designer turned Computer Engineering Student at York University
 
 ---
 
-### My Projects
+### Projects
 
 <div align="center">
   <table border="0">
