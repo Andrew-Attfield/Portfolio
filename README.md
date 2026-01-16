@@ -35,24 +35,24 @@ I'm a Mechanical Designer turned Computer Engineering Student at York University
     <tr>
       <td>
         <a href="https://github.com/Andrew-Attfield/java-banking-account-management">
-          <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Andrew-Attfield&repo=java-banking-account-management&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+          <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Andrew-Attfield&repo=java-banking-account-management&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&cache_seconds=1800" />
         </a>
       </td>
       <td>
         <a href="https://github.com/Andrew-Attfield/kl43z-vehicle-tracker-system">
-          <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Andrew-Attfield&repo=kl43z-vehicle-tracker-system&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+          <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Andrew-Attfield&repo=kl43z-vehicle-tracker-system&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&cache_seconds=1800" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://github.com/Andrew-Attfield/java-automated-watering-system">
-          <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Andrew-Attfield&repo=java-automated-watering-system&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+          <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Andrew-Attfield&repo=java-automated-watering-system&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&cache_seconds=1800" />
         </a>
       </td>
       <td>
         <a href="https://github.com/Andrew-Attfield/verilog-mips-processor">
-          <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Andrew-Attfield&repo=verilog-mips-processor&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+          <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Andrew-Attfield&repo=verilog-mips-processor&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&cache_seconds=1800" />
         </a>
       </td>
     </tr>
