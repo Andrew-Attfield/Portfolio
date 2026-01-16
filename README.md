@@ -15,52 +15,50 @@ I'm a Mechanical Designer turned Computer Engineering Student at York University
 
 ### 💻 Software & Programming
 <p align="left">
-  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="Bash" title="Bash" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="Vim" title="Vim" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/notepadplusplus-colored.svg" alt="Notepad++" title="Notepad++" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/intellij-colored.svg" alt="IntelliJ" title="IntelliJ" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/eclipse-colored.svg" alt="Eclipse" title="Eclipse" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/matlab-colored.svg" alt="MATLAB" title="MATLAB" width="36" height="36" /></a>
+  <img src="https://img.shields.io/badge/C-Programming-0891b2?style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Java-Systems-0891b2?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Bash-Scripting-0891b2?style=for-the-badge&logo=gnu-bash&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Linux-UNIX-0891b2?style=for-the-badge&logo=linux&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Verilog-HDL-0891b2?style=for-the-badge&logo=intel&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/RISC--V-ISA-0891b2?style=for-the-badge&logo=microchip&logoColor=white" />
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/Verilog-HDL-3fb1e5?style=for-the-badge&logo=intel&logoColor=white" height="32" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/RISC--V-ISA-67217a?style=for-the-badge&logo=microchip&logoColor=white" height="32" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/LTSpice-Circuit_Sim-blue?style=for-the-badge" height="32" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/UML-Design-informational?style=for-the-badge" height="32" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-IDE-0891b2?style=for-the-badge&logo=intellij-idea&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Eclipse-IDE-0891b2?style=for-the-badge&logo=eclipse-ide&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MATLAB-Simulation-0891b2?style=for-the-badge&logo=mathworks&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Notepad++-Editor-0891b2?style=for-the-badge&logo=notepadplusplus&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/LTSpice-Simulation-0891b2?style=for-the-badge" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/UML-Design-0891b2?style=for-the-badge" />
 </p>
 
 ---
 
 ### 🔌 Hardware & Engineering
 <p align="left">
-  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Oscilloscope-Analysis-brightgreen?style=flat-square" height="25" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Multimeter-Testing-yellow?style=flat-square" height="25" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Sensors_&_Actuators-IoT-blueviolet?style=flat-square" height="25" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Breadboarding-Prototyping-grey?style=flat-square" height="25" />
+  <img src="https://img.shields.io/badge/Arduino-Prototyping-0891b2?style=for-the-badge&logo=arduino&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Oscilloscope-Analysis-006400?style=for-the-badge" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Multimeter-Testing-8B8000?style=for-the-badge" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Sensors_&_Actuators-IoT-4B0082?style=for-the-badge" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Breadboarding-Development-444444?style=for-the-badge" />
 </p>
 
 ---
 
 ### 📐 Mechanical & Industrial Design
 <p align="left">
-  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solidworks-colored.svg" alt="SolidWorks" title="SolidWorks" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MicroStation-CAD-blue?style=for-the-badge" height="32" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SmartPlant3D-Modeling-green?style=for-the-badge" height="32" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/ProjectWise-Document_Control-003366?style=for-the-badge" height="32" />
+  <img src="https://img.shields.io/badge/SolidWorks-3D_Design-da291c?style=for-the-badge&logo=solidworks&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MicroStation-CAD-003366?style=for-the-badge" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SmartPlant3D-Modeling-228B22?style=for-the-badge" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/ProjectWise-Management-003366?style=for-the-badge" />
 </p>
 
 ---
 
-### 📜 Certifications
+### 📜 Certifications & Office
 <p align="left">
-  <img src="https://img.shields.io/badge/WHMIS_Certified-Workplace_Safety-orange?style=for-the-badge&logo=safety" height="30" />
+  <img src="https://img.shields.io/badge/WHMIS_Certified-Safety-orange?style=for-the-badge" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Microsoft_Office-Productivity-d83b01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </p>
-
----
 
 ### Socials
 
