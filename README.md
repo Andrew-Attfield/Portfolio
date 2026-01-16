@@ -28,7 +28,7 @@ I'm a Mechanical Designer turned Computer Engineering Student at York University
 <p align="left">
   <a href="https://www.github.com/Andrew-Attfield" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-  </a> 
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/andrew-attfield-career/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
   </a>
