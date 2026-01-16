@@ -15,7 +15,9 @@ I'm a Mechanical Designer turned Computer Engineering Student at York University
                   </p>
                   
 
-                ### Socials
+<br />
+
+### Socials
 
 <p align="left">
   <a href="https://www.github.com/Andrew-Attfield" target="_blank">
