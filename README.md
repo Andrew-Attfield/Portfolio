@@ -2,7 +2,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ---
 
 Computer Engineering Student | York University
-
 ---
 
 I'm a Mechanical Designer turned Computer Engineering Student at York University. I spent 5 years in the mining industry developing skills attuned to plant layouts and design constraints. I was driven by a need for deeper challenges and pivoted to Computer Engineering to better align with my personal interests. I'm here to bridge the gap between physical and digital systems.
