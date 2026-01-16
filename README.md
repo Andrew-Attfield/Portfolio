@@ -35,24 +35,24 @@ I'm a Mechanical Designer turned Computer Engineering Student at York University
     <tr>
       <td>
         <a href="https://github.com/Andrew-Attfield/java-banking-account-management">
-          <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Andrew-Attfield&repo=java-banking-account-management&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+          <img src="https://img.shields.io/badge/Java_Banking_System-OOP_Design-0891b2?style=for-the-badge&logo=oracle&logoColor=white" alt="Banking System" />
         </a>
       </td>
       <td>
         <a href="https://github.com/Andrew-Attfield/kl43z-vehicle-tracker-system">
-          <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Andrew-Attfield&repo=kl43z-vehicle-tracker-system&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+          <img src="https://img.shields.io/badge/KL43Z_Vehicle_Tracker-Embedded_C_/_Bash-0891b2?style=for-the-badge&logo=arm&logoColor=white" alt="Vehicle Tracker" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://github.com/Andrew-Attfield/java-automated-watering-system">
-          <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Andrew-Attfield&repo=java-automated-watering-system&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+          <img src="https://img.shields.io/badge/Automated_Watering-IoT_Java-0891b2?style=for-the-badge&logo=arduino&logoColor=white" alt="Watering System" />
         </a>
       </td>
       <td>
         <a href="https://github.com/Andrew-Attfield/verilog-mips-processor">
-          <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Andrew-Attfield&repo=verilog-mips-processor&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+          <img src="https://img.shields.io/badge/32--bit_MIPS_Processor-Verilog_HDL-0891b2?style=for-the-badge&logo=cpu&logoColor=white" alt="MIPS Processor" />
         </a>
       </td>
     </tr>
