@@ -6,8 +6,8 @@ Computer Engineering Student | York University
 
 I'm a Mechanical Designer turned Computer Engineering Student at York University. I spent 5 years in the mining industry developing skills attuned to plant layouts and design constraints. I was driven by a need for deeper challenges and pivoted to Computer Engineering to better align with my personal interests. I'm here to bridge the gap between physical and digital systems.
 
-* 🌍 I'm based in Greater Toronto Area
-* 🖥️ See my portfolio at [LinkedIn](http://www.linkedin.com/in/andrew-attfield-career/)
+* 🌍 I'm based in the Greater Toronto Area
+* 🖥️ See my career history at [LinkedIn](http://www.linkedin.com/in/andrew-attfield-career/)
 * ✉️ You can contact me at [andrewattfield2605@gmail.com](mailto:andrewattfield2605@gmail.com)
 * 🧠 I'm currently learning Python, Data Structures, Signals & Systems, and Engineering Statistics
 
