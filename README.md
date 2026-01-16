@@ -55,13 +55,19 @@ I'm a Mechanical Designer turned Computer Engineering Student at York University
 
 ---
 
-### 📜 Certifications & Office
+### 📜 Productivity & Certifications
 <p align="left">
   <img src="https://img.shields.io/badge/WHMIS_Certified-Safety-f39c12?style=for-the-badge" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Microsoft_Office-Productivity-d83b01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </p>
 
 ---
+
+### 🎬 Creative Media
+<p align="left">
+  <img src="https://img.shields.io/badge/After_Effects-Motion_Graphics-900c3f?style=for-the-badge&logo=adobe-after-effects&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Premiere_Pro-Video_Editing-900c3f?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
+</p>
 
 ### Projects
 
