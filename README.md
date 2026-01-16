@@ -64,8 +64,6 @@ I'm a Mechanical Designer turned Computer Engineering Student at York University
 
 ---
 
----
-
 ### Socials
 
 <p align="left">
