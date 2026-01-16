@@ -13,8 +13,6 @@ I'm a Mechanical Designer turned Computer Engineering Student at York University
 
 ---
 
----
-
 ### 💻 Software & Programming
 <p align="left">
   <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
