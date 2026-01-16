@@ -56,9 +56,9 @@ I'm a Mechanical Designer turned Computer Engineering Student at York University
 ---
 
 ### 📜 Productivity & Certifications
-<p align="left">
-  <img src="https://img.shields.io/badge/WHMIS_Certified-Safety-f39c12?style=for-the-badge" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Microsoft_Office-Productivity-d83b01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+<p align="left"> 
+  <img src="https://img.shields.io/badge/Microsoft_Office-Productivity-d83b01?style=for-the-badge&logo=microsoft-office&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/WHMIS_Certified-Safety-f39c12?style=for-the-badge" />
 </p>
 
 ---
