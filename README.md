@@ -28,7 +28,7 @@ I'm a Mechanical Designer turned Computer Engineering Student at York University
 
 
 
-<b>Top Repositories</b>
+<b>My Projects</b>
 
 <div align="center">
   <table border="0">
@@ -58,3 +58,18 @@ I'm a Mechanical Designer turned Computer Engineering Student at York University
     </tr>
   </table>
 </div>
+
+<br />
+
+<details>
+  <summary><b>📂 View More Engineering Projects</b></summary>
+  <br />
+  <div align="left">
+    <a href="https://github.com/Andrew-Attfield/analog-alarm-system">
+      <img src="https://img.shields.io/badge/Analog_Alarm_System-Circuit_Design-0891b2?style=flat-square&logo=circuitlab" />
+    </a>
+    <a href="https://github.com/Andrew-Attfield/your-python-repo">
+      <img src="https://img.shields.io/badge/Python_Data_Analysis-Statistics-0891b2?style=flat-square&logo=python" />
+    </a>
+    </div>
+</details>
