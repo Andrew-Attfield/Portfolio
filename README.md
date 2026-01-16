@@ -69,7 +69,7 @@ I'm a Mechanical Designer turned Computer Engineering Student at York University
   <img src="https://img.shields.io/badge/Premiere_Pro-Video_Editing-900c3f?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
 </p>
 
-### Projects
+### 🏗️ Featured Projects
 
 <div align="center">
   <table border="0">
