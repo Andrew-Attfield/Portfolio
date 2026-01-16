@@ -23,55 +23,42 @@ I'm a Mechanical Designer turned Computer Engineering Student at York University
   <img src="https://img.shields.io/badge/RISC--V-ISA-0891b2?style=for-the-badge&logo=microchip&logoColor=white" />
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-IDE-0891b2?style=for-the-badge&logo=intellij-idea&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Eclipse-IDE-0891b2?style=for-the-badge&logo=eclipse-ide&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MATLAB-Simulation-0891b2?style=for-the-badge&logo=mathworks&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Notepad++-Editor-0891b2?style=for-the-badge&logo=notepadplusplus&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/LTSpice-Simulation-0891b2?style=for-the-badge" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/UML-Design-0891b2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-IDE-6f42c1?style=for-the-badge&logo=intellij-idea&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Eclipse-IDE-6f42c1?style=for-the-badge&logo=eclipse-ide&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Notepad++-Editor-6f42c1?style=for-the-badge&logo=notepadplusplus&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MATLAB-Simulation-e16711?style=for-the-badge&logo=mathworks&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/LTSpice-Simulation-e16711?style=for-the-badge" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/UML-Design-e16711?style=for-the-badge" />
 </p>
 
 ---
 
 ### 🔌 Hardware & Engineering
 <p align="left">
-  <img src="https://img.shields.io/badge/Arduino-Prototyping-0891b2?style=for-the-badge&logo=arduino&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Oscilloscope-Analysis-006400?style=for-the-badge" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Multimeter-Testing-8B8000?style=for-the-badge" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Sensors_&_Actuators-IoT-4B0082?style=for-the-badge" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Breadboarding-Development-444444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Arduino-Prototyping-2e7d32?style=for-the-badge&logo=arduino&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Oscilloscope-Analysis-2e7d32?style=for-the-badge" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Multimeter-Testing-2e7d32?style=for-the-badge" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Sensors_&_Actuators-IoT-2e7d32?style=for-the-badge" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Breadboarding-Development-2e7d32?style=for-the-badge" />
 </p>
 
 ---
 
 ### 📐 Mechanical & Industrial Design
 <p align="left">
-  <img src="https://img.shields.io/badge/SolidWorks-3D_Design-da291c?style=for-the-badge&logo=solidworks&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MicroStation-CAD-003366?style=for-the-badge" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SmartPlant3D-Modeling-228B22?style=for-the-badge" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/ProjectWise-Management-003366?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SolidWorks-3D_Design-4682b4?style=for-the-badge&logo=solidworks&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MicroStation-CAD-4682b4?style=for-the-badge" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SmartPlant3D-Modeling-4682b4?style=for-the-badge" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/ProjectWise-Management-4682b4?style=for-the-badge" />
 </p>
 
 ---
 
 ### 📜 Certifications & Office
 <p align="left">
-  <img src="https://img.shields.io/badge/WHMIS_Certified-Safety-orange?style=for-the-badge" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/WHMIS_Certified-Safety-f39c12?style=for-the-badge" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Microsoft_Office-Productivity-d83b01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </p>
-
-### Socials
-
-<p align="left">
-  <a href="https://www.github.com/Andrew-Attfield" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/andrew-attfield-career/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-  </a>
-</p>
-
----
 
 ### Projects
 
