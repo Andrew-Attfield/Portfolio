@@ -11,6 +11,8 @@ I'm a Mechanical Designer turned Computer Engineering Student at York University
 * ✉️ You can contact me at [andrewattfield2605@gmail.com](mailto:andrewattfield2605@gmail.com)
 * 🧠 I'm currently learning Python, Data Structures, Signals & Systems, and Engineering Statistics
 
+---
+
 ### Skills & Tools
 
 <p align="left">
@@ -23,6 +25,8 @@ I'm a Mechanical Designer turned Computer Engineering Student at York University
   <a href="https://store.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
 </p>
+
+---
 
 ### Socials
 
