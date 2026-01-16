@@ -4,24 +4,25 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Engineering Student
 ----------------------------
 
-I'm a Mechanical Designer turned Computer Engineering Student at York University. I spent 5 years in the mining industry developing skills attuned to plant layouts and design constraints. I was driven by a need for deeper challenges, and pivoted myself to Computer Engineering to better align with my personal interests. I'm here to bridge the gap between physical and digital systems.
+I'm a Mechanical Designer turned Computer Engineering Student at York University. I spent 5 years in the mining industry developing skills attuned to plant layouts and design constraints. I was driven by a need for deeper challenges and pivoted to Computer Engineering to better align with my personal interests. I'm here to bridge the gap between physical and digital systems.
 
-*   🌍  I'm based in Greater Toronto Area
-*   🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/andrew-attfield-career/)
-*   ✉️  You can contact me at [andrewattfield2605@gmail.com](mailto:andrewattfield2605@gmail.com)
-*   🧠  I'm currently learning Python, Data Structures, Signals & Systems and Engineering Statistics
+* 🌍 I'm based in Greater Toronto Area
+* 🖥️ See my portfolio at [LinkedIn](http://www.linkedin.com/in/andrew-attfield-career/)
+* ✉️ You can contact me at [andrewattfield2605@gmail.com](mailto:andrewattfield2605@gmail.com)
+* 🧠 I'm currently learning Python, Data Structures, Signals & Systems, and Engineering Statistics
+
+### Skills & Tools
+
 <p align="left">
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="Vim" title="Vim" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" alt="After Effects" title="After Effects" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" alt="Premiere Pro" title="Premiere Pro" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://store.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="Vim" title="Vim" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" alt="After Effects" title="After Effects" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" alt="Premiere Pro" title="Premiere Pro" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://store.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
 </p>
-<br />
 
 ### Socials
 
@@ -34,9 +35,9 @@ I'm a Mechanical Designer turned Computer Engineering Student at York University
   </a>
 </p>
 
+---
 
-
-<b>My Projects</b>
+### My Projects
 
 <div align="center">
   <table border="0">
@@ -65,9 +66,8 @@ I'm a Mechanical Designer turned Computer Engineering Student at York University
       </td>
     </tr>
   </table>
-</div>
 
-<br />
+  <br />
 
   <a href="https://github.com/Andrew-Attfield?tab=repositories">
     <img src="https://img.shields.io/badge/Explore_All_Projects-222222?style=for-the-badge&logo=github&logoColor=white" alt="All Projects" />
