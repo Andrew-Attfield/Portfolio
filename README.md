@@ -29,7 +29,7 @@ I'm a Mechanical Designer turned Computer Engineering Student at York University
   <img src="https://img.shields.io/badge/MATLAB-Simulation-e16711?style=for-the-badge&logo=mathworks&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/LTSpice-Simulation-e16711?style=for-the-badge" />&nbsp;&nbsp;
   </p>
-  <img src="https://img.shields.io/badge/UML-System_Design-708090?style=for-the-badge" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/UML-System_Design-708090?style=for-the-badge" />
 </p>
 
 ---
